@@ -1,0 +1,84 @@
+	
+	.Menu {
+		width: 200px;
+		height:50px;
+       left: 50%;
+       right: 50%;
+       align-content: center;
+	   color: black;
+	}
+	.SECTION1 {
+		width: 350px;
+		height:50px;
+		float: left;
+		margin: 3px;
+	}
+	.SECTION2 {
+		width: 350px;
+		height:50px;
+		float: left;
+		margin: 3px;
+	}
+	.SECTION3 {
+	    width: 350px;
+		height:50px;
+		float: left;
+		margin: 3px;
+
+	}
+
+		
+	.SECTION1 p {
+		color: white;
+		background-color: red;
+		font-family: arial;
+		font-size: 12px;
+
+	}
+	.SECTION2 p {
+		color: white;
+		background-color: red;
+		font-family: arial;
+		font-size: 12px;
+	}
+	.SECTION3 p {
+		color: white;
+		background-color: red;
+		font-family: arial;
+		font-size: 12px;
+	}
+	
+	.Menu{
+		width: 200%;
+		height: 150px;
+		background-color: brown;
+	}
+	.Menu ul{
+		list-style: none;
+	}
+	.Menu ul li{
+		display: inline;
+		font-size: 18px;
+		line-height: 20px
+		
+
+	}
+	.Menu ul li a {
+		color: white;
+		text-decoration: none;
+		padding: 15px
+
+	}
+	.Menu ul li a:hover{
+		background-color: green;
+
+	}
+	.FOOTER {
+		position: fixed;
+		padding: 10px 10px 10px;
+		bottom: 0;
+		width: 100%;
+		height: 40px
+		
+	}
+	
